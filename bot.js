@@ -8,7 +8,7 @@ const chalk = require("chalk");
 require("./util/eventLoader")(client);
 const moment = require("moment");
 const db = require("quick.db");
-const ms = require("parse-ms");
+const ms = require("ms");
 const queue = new Map();
 const { GiveawaysManager } = require('discord-giveaways');
 
