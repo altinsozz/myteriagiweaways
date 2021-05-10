@@ -21,7 +21,7 @@ exports.run = async (bot, msg, args) => {
          .addField('**<:YldzPng:815542522252099594>Site<:YldzPng:815542522252099594>**', ' `!msite` \nDiscord botumuzun sitesini gösterir.',false)
           .addField("**Destek Sunucum**"," [Destek Sunucum](https://discord.gg/Vp2hFdrxQc)")
            .addField("** Bot Davet**"," [Davet Et](https://discord.com/api/oauth2/authorize?client_id=777570091172233297&permissions=8&scope=bot)")
-        .setImage('https://cdn.discordapp.com/attachments/829773551539716126/830552248144232469/standard_5.gif')
+        .setImage('https://cdn.discordapp.com/attachments/790851557398151198/822843248119644188/standard.gif')
                
 
   
